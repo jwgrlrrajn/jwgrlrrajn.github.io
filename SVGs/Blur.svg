@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE svg>
-<svg width="256" height="192" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-	<defs>
-    <filter id="blurFilter4" x="0" y="0" width="256" height="192">
-        <feGaussianBlur in="SourceGraphic" stdDeviation="10" />
-    </filter>
-</defs>
-</svg>
