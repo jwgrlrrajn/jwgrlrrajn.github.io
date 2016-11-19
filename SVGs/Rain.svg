@@ -8,7 +8,7 @@
 
 <g> 
 <use  xlink:href="#g">
-	 <animate attributeName="opacity" from="0.3" to="0.3"/>
+	 <animate attributeName="opacity" from="0.3" to="0.3" repeatCount="indefinite"/>
 </use>
 </g>   
 </svg>
